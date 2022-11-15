@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ipywidgets
 notebook
 ensure
@@ -9,4 +10,18 @@ pytest  # testing
 tox     # automate testing
 black   # formating
 flake8  #
+=======
+ipywidgets
+notebook
+ensure
+py-youtube
+
+
+
+#dev requirements
+pytest  # testing
+tox     # automate testing
+black   # formating
+flake8  #
+>>>>>>> f4a5d8135a614dd90ab12a5effca68473db7e97d
 mypy    # type error
