@@ -1,0 +1,12 @@
+ipywidgets
+notebook
+ensure
+py-youtube
+
+
+#dev requirements
+pytest  # testing
+tox     # automate testing
+black   # formating
+flake8  #
+mypy    # type error
